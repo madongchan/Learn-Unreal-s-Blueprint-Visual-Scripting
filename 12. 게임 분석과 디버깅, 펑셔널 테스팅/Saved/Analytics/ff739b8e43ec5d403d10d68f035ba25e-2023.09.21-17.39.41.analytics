@@ -1,0 +1,15 @@
+{
+	"sessionId" : "ff739b8e43ec5d403d10d68f035ba25e-2023.09.21-17.39.41",
+	"userId" : "ff739b8e43ec5d403d10d68f035ba25e",
+	"events" : [
+		{
+			"eventName" : "End Session"
+,			"attributes" : [
+			{
+				"name" : "End Play Reason",
+				"value" : "End Play in Editor"
+			}
+			]
+		}
+	]
+}

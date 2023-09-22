@@ -1,0 +1,505 @@
+{
+	"sessionId" : "ff739b8e43ec5d403d10d68f035ba25e-2023.09.21-16.47.28",
+	"userId" : "ff739b8e43ec5d403d10d68f035ba25e",
+	"events" : [
+		{
+			"eventName" : "Item Collected"
+,			"attributes" : [
+			{
+				"name" : "Time",
+				"value" : "4.452219"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "Item Collected"
+,			"attributes" : [
+			{
+				"name" : "Time",
+				"value" : "5.235417"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "Item Collected"
+,			"attributes" : [
+			{
+				"name" : "Time",
+				"value" : "6.102169"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "Enemy Dies"
+,			"attributes" : [
+			{
+				"name" : "Time",
+				"value" : "8.758035"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "Item Collected"
+,			"attributes" : [
+			{
+				"name" : "Time",
+				"value" : "11.243533"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "Item Collected"
+,			"attributes" : [
+			{
+				"name" : "Time",
+				"value" : "15.660449"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "Item Collected"
+,			"attributes" : [
+			{
+				"name" : "Time",
+				"value" : "17.36055"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "Item Collected"
+,			"attributes" : [
+			{
+				"name" : "Time",
+				"value" : "18.977264"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "Item Collected"
+,			"attributes" : [
+			{
+				"name" : "Time",
+				"value" : "21.427404"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "Item Collected"
+,			"attributes" : [
+			{
+				"name" : "Time",
+				"value" : "25.210876"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "Player dies"
+,			"attributes" : [
+			{
+				"name" : "Time",
+				"value" : "26.927607"
+			}
+			,
+			{
+				"name" : "PlayerPosition",
+				"value" : "X=3148.069 Y=1599.381 Z=23.622"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "Player dies"
+,			"attributes" : [
+			{
+				"name" : "Time",
+				"value" : "28.245665"
+			}
+			,
+			{
+				"name" : "PlayerPosition",
+				"value" : "X=2917.227 Y=1884.502 Z=-66.164"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "Player dies"
+,			"attributes" : [
+			{
+				"name" : "Time",
+				"value" : "28.55854"
+			}
+			,
+			{
+				"name" : "PlayerPosition",
+				"value" : "X=2910.755 Y=1916.632 Z=-66.164"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "Player dies"
+,			"attributes" : [
+			{
+				"name" : "Time",
+				"value" : "28.808556"
+			}
+			,
+			{
+				"name" : "PlayerPosition",
+				"value" : "X=2903.358 Y=1953.350 Z=-66.164"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "Player dies"
+,			"attributes" : [
+			{
+				"name" : "Time",
+				"value" : "28.858559"
+			}
+			,
+			{
+				"name" : "PlayerPosition",
+				"value" : "X=2903.358 Y=1953.350 Z=-66.164"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "Player dies"
+,			"attributes" : [
+			{
+				"name" : "Time",
+				"value" : "28.90856"
+			}
+			,
+			{
+				"name" : "PlayerPosition",
+				"value" : "X=2903.358 Y=1953.350 Z=-66.164"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "Player dies"
+,			"attributes" : [
+			{
+				"name" : "Time",
+				"value" : "28.958563"
+			}
+			,
+			{
+				"name" : "PlayerPosition",
+				"value" : "X=2903.358 Y=1953.350 Z=-66.164"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "Player dies"
+,			"attributes" : [
+			{
+				"name" : "Time",
+				"value" : "29.008568"
+			}
+			,
+			{
+				"name" : "PlayerPosition",
+				"value" : "X=2903.358 Y=1953.350 Z=-66.164"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "Player dies"
+,			"attributes" : [
+			{
+				"name" : "Time",
+				"value" : "29.058567"
+			}
+			,
+			{
+				"name" : "PlayerPosition",
+				"value" : "X=2903.358 Y=1953.350 Z=-66.164"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "Player dies"
+,			"attributes" : [
+			{
+				"name" : "Time",
+				"value" : "29.10857"
+			}
+			,
+			{
+				"name" : "PlayerPosition",
+				"value" : "X=2903.358 Y=1953.350 Z=-66.164"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "Player dies"
+,			"attributes" : [
+			{
+				"name" : "Time",
+				"value" : "29.158571"
+			}
+			,
+			{
+				"name" : "PlayerPosition",
+				"value" : "X=2903.358 Y=1953.350 Z=-66.164"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "Player dies"
+,			"attributes" : [
+			{
+				"name" : "Time",
+				"value" : "29.20857"
+			}
+			,
+			{
+				"name" : "PlayerPosition",
+				"value" : "X=2903.358 Y=1953.350 Z=-66.164"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "Player dies"
+,			"attributes" : [
+			{
+				"name" : "Time",
+				"value" : "29.258575"
+			}
+			,
+			{
+				"name" : "PlayerPosition",
+				"value" : "X=2903.358 Y=1953.350 Z=-66.164"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "Player dies"
+,			"attributes" : [
+			{
+				"name" : "Time",
+				"value" : "29.308578"
+			}
+			,
+			{
+				"name" : "PlayerPosition",
+				"value" : "X=2903.358 Y=1953.350 Z=-66.164"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "Player dies"
+,			"attributes" : [
+			{
+				"name" : "Time",
+				"value" : "29.358583"
+			}
+			,
+			{
+				"name" : "PlayerPosition",
+				"value" : "X=2903.358 Y=1953.350 Z=-66.164"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "Player dies"
+,			"attributes" : [
+			{
+				"name" : "Time",
+				"value" : "29.408588"
+			}
+			,
+			{
+				"name" : "PlayerPosition",
+				"value" : "X=2903.358 Y=1953.350 Z=-66.164"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "Player dies"
+,			"attributes" : [
+			{
+				"name" : "Time",
+				"value" : "29.458591"
+			}
+			,
+			{
+				"name" : "PlayerPosition",
+				"value" : "X=2903.358 Y=1953.350 Z=-66.164"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "Player dies"
+,			"attributes" : [
+			{
+				"name" : "Time",
+				"value" : "29.508596"
+			}
+			,
+			{
+				"name" : "PlayerPosition",
+				"value" : "X=2903.358 Y=1953.350 Z=-66.164"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "Player dies"
+,			"attributes" : [
+			{
+				"name" : "Time",
+				"value" : "29.558598"
+			}
+			,
+			{
+				"name" : "PlayerPosition",
+				"value" : "X=2903.358 Y=1953.350 Z=-66.164"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "Player dies"
+,			"attributes" : [
+			{
+				"name" : "Time",
+				"value" : "29.608635"
+			}
+			,
+			{
+				"name" : "PlayerPosition",
+				"value" : "X=2903.358 Y=1953.350 Z=-66.164"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "Player dies"
+,			"attributes" : [
+			{
+				"name" : "Time",
+				"value" : "29.658636"
+			}
+			,
+			{
+				"name" : "PlayerPosition",
+				"value" : "X=2903.358 Y=1953.350 Z=-66.164"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "Player dies"
+,			"attributes" : [
+			{
+				"name" : "Time",
+				"value" : "29.708637"
+			}
+			,
+			{
+				"name" : "PlayerPosition",
+				"value" : "X=2903.358 Y=1953.350 Z=-66.164"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "Player dies"
+,			"attributes" : [
+			{
+				"name" : "Time",
+				"value" : "29.75864"
+			}
+			,
+			{
+				"name" : "PlayerPosition",
+				"value" : "X=2903.358 Y=1953.350 Z=-66.164"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "Player dies"
+,			"attributes" : [
+			{
+				"name" : "Time",
+				"value" : "29.808641"
+			}
+			,
+			{
+				"name" : "PlayerPosition",
+				"value" : "X=2903.358 Y=1953.350 Z=-66.164"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "Player dies"
+,			"attributes" : [
+			{
+				"name" : "Time",
+				"value" : "29.858644"
+			}
+			,
+			{
+				"name" : "PlayerPosition",
+				"value" : "X=2903.358 Y=1953.350 Z=-66.164"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "Player dies"
+,			"attributes" : [
+			{
+				"name" : "Time",
+				"value" : "29.908646"
+			}
+			,
+			{
+				"name" : "PlayerPosition",
+				"value" : "X=2903.358 Y=1953.350 Z=-66.164"
+			}
+			]
+		}
+,
+		{
+			"eventName" : "End Session"
+,			"attributes" : [
+			{
+				"name" : "End Play Reason",
+				"value" : "Level Transition"
+			}
+			]
+		}
+	]
+}
